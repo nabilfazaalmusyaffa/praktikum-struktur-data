@@ -1,6 +1,9 @@
 <<<<<<< HEAD
 🧠 Praktikum Struktur Data
+📂 Rincian Implementasi ProgramProyek ini mencakup berbagai implementasi struktur data dan algoritma yang disusun secara modular. Dimulai dari aspek fundamental, file array.py menyajikan implementasi Abstract Data Type (ADT) Array dengan ukuran tetap yang memanfaatkan magic methods Python seperti __getitem__ dan __setitem__ untuk validasi indeks yang ketat. Pada sisi simulasi, terdapat game_of_life.py yang menerapkan Conway’s Game of Life menggunakan manipulasi grid 2D dan logika transisi sel otomatis. Untuk manajemen data sederhana, simulasi buku telepon.py mendemonstrasikan penyimpanan kontak berbasis list dengan fitur Linear Search, sementara modified binary search.py menawarkan solusi pencarian yang lebih efisien dengan kompleksitas $O(\log n)$ yang telah disesuaikan untuk menangani kondisi data khusus.Dalam kategori algoritma pengurutan dan manipulasi list, repositori ini menyediakan bubble_sort.py yang dilengkapi dengan visualisasi langkah demi langkah untuk mempermudah pemahaman alur $O(n^2)$, serta hybrid_sort.py yang menggabungkan efisiensi Merge Sort dan Insertion Sort. Terdapat juga merge tiga sorted list.py yang mengoptimalkan penggabungan tiga sumber data terurut menjadi satu kesatuan. Untuk analisis data, file inversion counter.py digunakan untuk mengukur tingkat keacakan array, sedangkan deduplikasi.py dan first_recurring_character.py berfungsi untuk mengelola elemen duplikat dan menemukan repetisi pertama dalam sekumpulan data. Terakhir, proyek ini dilengkapi dengan alat pembanding seperti anagram check.py untuk validasi kemiripan string dan intersection dua array.py untuk menemukan irisan elemen di antara dua struktur data berbeda.
+
 ADT Array & Conway’s Game of Life Simulation in Python
+
 
 📌 Project Overview
 
