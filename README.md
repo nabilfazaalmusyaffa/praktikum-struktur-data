@@ -2,6 +2,11 @@
 
 ## 📌 Project Overview
 
+## 📄 Laporan Tugas Queue
+
+Laporan ini berisi pembahasan tentang struktur data Queue, termasuk analisis dan implementasi.
+
+[📥 Lihat / Download Laporan Queue](./laporan_queue.pdf)
 Proyek ini berisi berbagai implementasi struktur data dan algoritma menggunakan Python, mulai dari konsep dasar hingga simulasi dan optimasi algoritma.
 
 Project dibuat sebagai bagian dari praktikum mata kuliah Struktur Data.
